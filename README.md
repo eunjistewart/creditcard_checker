@@ -1,6 +1,5 @@
 # creditcard_checker
-> Project Goals
-The credit card distributors have been mailing out cards that have invalid numbers. In this project, take the role of a clerk who checks if credit cards are valid, optimizing the verification process using the knowledge of functions and loops to handle multiple credit cards at a time. 
+> The credit card distributors have been mailing out cards that have invalid numbers. Take the role of a clerk who checks if credit cards are valid, optimizing the verification process using the knowledge of functions and loops to handle multiple credit cards at a time. 
 
 
 ---
